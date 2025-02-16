@@ -1,0 +1,7 @@
+{
+    "_note": "Change the directory routes to your desired folders",
+    "source_folder": "C:/Users/user/projects/backup-examples/sources",
+    "backup_folder": "C:/Users/user/projects/backup-examples/backup-destination",
+    "backup_interval": 30,
+    "delete_old_backups_days": 7
+}
