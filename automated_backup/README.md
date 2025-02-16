@@ -28,6 +28,7 @@ pip install schedule
 1. Clone repository:
 
 git clone https://github.com/salasfajar/python-automations-by-salas.git
+cd python-automations-by-salas
 cd automated_backup
 
 
